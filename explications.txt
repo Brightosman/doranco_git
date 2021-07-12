@@ -2,3 +2,15 @@ Git est un outil de versionning => VCS (version control System)
 
 git init: initialise un depot (repository) git
 git config --global user.name "Prenom NOM"
+
+git add explications.txt index.php
+
+git status
+
+git commit -m "Mon premier commit"
+
+git log: afficher l'hitorique des commits
+
+git remote add origin https://github.com/Brightosman/doranco_git.git
+git branch -M main
+git push -u origin main
