@@ -1,0 +1,4 @@
+Git est un outil de versionning => VCS (version control System)
+
+git init: initialise un depot (repository) git
+git config --global user.name "Prenom NOM"
